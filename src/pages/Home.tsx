@@ -2,7 +2,19 @@
 
 const Home = () => {
   return (
-    <main className="bg-red-400">Home</main>
+    <main className="">
+
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+      <div className="box">box</div>
+
+    </main>
   )
 }
 

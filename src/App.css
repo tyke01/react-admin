@@ -1,0 +1,7 @@
+.link{
+    @apply cursor-pointer
+}
+
+.list-items{
+    @apply flex items-center gap-3 p-3 hover:bg-soft-bg rounded-md
+}
