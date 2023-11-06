@@ -17,7 +17,7 @@ function App() {
       <main className="main font-inter bg-main-bg text-main-color">
         <Navbar />
         <div className='container flex'>
-          <div className='menu w-64 py-2 px-5 border-r-2 border-soft-bg'>
+          <div className='menu w-56 py-2 px-5 border-r-2 border-soft-bg'>
             <Menu />
           </div>
           <div className='content py-2 px-5 w-full'>

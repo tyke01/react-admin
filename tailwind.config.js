@@ -22,7 +22,7 @@ export default {
       borderColor: {
         'soft-bg': '#384356',
       }
-      
+
     },
   },
   plugins: [],

@@ -5,3 +5,15 @@
 .list-items{
     @apply flex items-center gap-3 p-3 hover:bg-soft-bg rounded-md
 }
+.box{
+    @apply p-3 rounded-lg border border-soft-bg
+}
+.auto-rows {
+    grid-auto-rows: minmax(150px, auto);
+}
+.flex-3{
+    flex: 3;
+}
+.flex-2{
+    flex: 2;
+}
